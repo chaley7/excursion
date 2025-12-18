@@ -5,6 +5,7 @@ body {
     color: white;
 }
 
+/* HEADINGS */
 h1 {
     font-weight: normal;
     font-size: 50px;
@@ -20,7 +21,15 @@ h4 {
     color: gray;
 }
 
+/* LINKS */
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+/* FOOTER */
+footer {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
 }
